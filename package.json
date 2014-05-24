@@ -1,0 +1,14 @@
+{
+  "name": "react-marked",
+  "version": "0.0.0",
+  "description": "Render markdown with React using marked's lexer and parser",
+  "main": "react-marked.js",
+  "author": "Dan Shearmur <dan.shearmur@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "~0.10.0",
+    "marked": "~0.3.2",
+    "node-jsx": "~0.10.0",
+    "react-tools": "~0.10.0"
+  }
+}
