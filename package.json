@@ -6,7 +6,7 @@
   "author": "Dan Shearmur <dan.shearmur@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "react": "~0.10.0",
-    "marked": "~0.3.2",
+    "react": "^15.6.1",
+    "teact": "git+https://github.com/jahbini/teact.git#jah"
   }
 }
