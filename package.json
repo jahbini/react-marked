@@ -1,14 +1,12 @@
 {
-  "name": "react-marked",
+  "name": "teact-marked",
   "version": "0.0.0",
-  "description": "Render markdown with React using marked's lexer and parser",
-  "main": "react-marked.js",
+  "description": "Render markdown with teact using marked's lexer and parser",
+  "main": "teact-marked.coffee",
   "author": "Dan Shearmur <dan.shearmur@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "react": "~0.10.0",
     "marked": "~0.3.2",
-    "node-jsx": "~0.10.0",
-    "react-tools": "~0.10.0"
   }
 }
